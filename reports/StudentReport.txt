@@ -1,0 +1,2 @@
+-- No report generated yet --
+Run the application and choose option 5 to generate and save the class report here.
